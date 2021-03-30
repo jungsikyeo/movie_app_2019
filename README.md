@@ -1,4 +1,4 @@
-# Movie Web App
+# React Movie Web App
 React Study를 위한 영화 웹 App
 
 ```json
